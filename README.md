@@ -40,4 +40,4 @@
 
 - [x] Setting up the project
 - [x] Working with user stories
-- [ ] From a Domain Model to a Feature Tes
+- [ ] From a Domain Model to a Feature Test
