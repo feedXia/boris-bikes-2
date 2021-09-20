@@ -33,13 +33,11 @@
 | Objects | Messages |
 |---------|----------|
 | Person | use_if_working |
-|---------|----------|
 | Bike | check_if_working |
-|---------|----------|
 | Docking Station | check_can_release |
 
 ## To Do's
 
 - [x] Setting up the project
 - [x] Working with user stories
-- [ ] From a Domain Model to a Feature Test
+- [ ] From a Domain Model to a Feature Tes
