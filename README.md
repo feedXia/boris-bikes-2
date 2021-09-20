@@ -22,3 +22,8 @@
 ## How to run the tests
 
 - `test_command` (e.g. `rspec`)
+
+## To Do's
+
+[x] Setting up the project
+[ ] Working with user stories
