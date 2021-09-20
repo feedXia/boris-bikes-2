@@ -23,7 +23,23 @@
 
 - `test_command` (e.g. `rspec`)
 
+
+## User Stories 
+
+### Flow Chart
+https://lucid.app/lucidchart/fba9aff5-e824-4b4e-86c3-44aa9ad61769/edit?beaconFlowId=6DF6B0CA2FBBD509&page=0_0#
+
+### Table
+| Objects | Messages |
+|---------|----------|
+| Person | use_if_working |
+|---------|----------|
+| Bike | check_if_working |
+|---------|----------|
+| Docking Station | check_can_release |
+
 ## To Do's
 
 - [x] Setting up the project
-- [ ] Working with user stories
+- [x] Working with user stories
+- [ ] From a Domain Model to a Feature Test
