@@ -25,5 +25,5 @@
 
 ## To Do's
 
-[x] Setting up the project
-[ ] Working with user stories
+- [x] Setting up the project
+- [ ] Working with user stories
