@@ -27,7 +27,7 @@
 ## User Stories 
 
 ### Flow Chart
-https://lucid.app/lucidchart/fba9aff5-e824-4b4e-86c3-44aa9ad61769/edit?beaconFlowId=6DF6B0CA2FBBD509&page=0_0#
+[![Flow Chart]] https://lucid.app/lucidchart/fba9aff5-e824-4b4e-86c3-44aa9ad61769/edit?beaconFlowId=6DF6B0CA2FBBD509&page=0_0#
 
 ### Table
 | Objects | Messages |
