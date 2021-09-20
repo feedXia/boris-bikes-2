@@ -29,7 +29,7 @@
 ### Flow Chart
 [![Flow Chart]] https://lucid.app/lucidchart/fba9aff5-e824-4b4e-86c3-44aa9ad61769/edit?beaconFlowId=6DF6B0CA2FBBD509&page=0_0#
 
-https://lucid.app/lucidchart/fba9aff5-e824-4b4e-86c3-44aa9ad61769/view?page=0_0#
+https://lucid.app/publicSegments/view/b3c59445-51c6-4573-abd2-0e3e7ef5ab4c/image.png
 
 ### Table
 | Objects | Messages |
