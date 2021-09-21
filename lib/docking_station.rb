@@ -3,4 +3,8 @@ class DockingStation
     bike = Bike.new
     return bike
   end
+
+  def docked?
+    return true
+  end
 end
